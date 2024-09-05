@@ -1,4 +1,4 @@
-#ros2_plot
+# ros2_plot
 
 ​		A ROS2 package that leverages shared memory to visualize waveforms using [PlotJuggler](https://github.com/facontidavide/PlotJuggler), a state-of-the-art tool for real-time data analysis and visualization. This package allows you to work with high-performance, advanced visualization capabilities without being restricted to simulators or tools that are ROS-centric or lack ROS support.
 
